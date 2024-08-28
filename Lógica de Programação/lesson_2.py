@@ -1,5 +1,6 @@
 """ FUNÇÃO PRINT """
 
 print(1,2,3,4,5)
-print(1,2,3,4,5, sep='-')
-print(1,2,3,4,5, sep='-')
+
+# Para modificar o separadaor basta:
+print(1,2,3,4,5, sep='|')
