@@ -6,5 +6,6 @@ Uso: nome_variavel = expressão
 """
 complete_name = 'Pedro Dearo Costa'
 age = 18
+of_legal_age = age >=18
 
-print(complete_name, age)
+print('Name:',complete_name,'\n', 'Age:', age, '\n', 'Is of legal age?', of_legal_age)
